@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/trendytechnologies.com/static/css/main.7800b59a.chunk.css",
+    "main.js": "/trendytechnologies.com/static/js/main.7a100a38.chunk.js",
+    "main.js.map": "/trendytechnologies.com/static/js/main.7a100a38.chunk.js.map",
+    "runtime-main.js": "/trendytechnologies.com/static/js/runtime-main.7501f549.js",
+    "runtime-main.js.map": "/trendytechnologies.com/static/js/runtime-main.7501f549.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/trendytechnologies.com/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.76264b49.chunk.js": "/trendytechnologies.com/static/js/2.76264b49.chunk.js",
+    "static/js/2.76264b49.chunk.js.map": "/trendytechnologies.com/static/js/2.76264b49.chunk.js.map",
+    "index.html": "/trendytechnologies.com/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/trendytechnologies.com/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.7800b59a.chunk.css.map": "/trendytechnologies.com/static/css/main.7800b59a.chunk.css.map",
+    "static/js/2.76264b49.chunk.js.LICENSE.txt": "/trendytechnologies.com/static/js/2.76264b49.chunk.js.LICENSE.txt",
+    "static/media/Tut78_About2.53f1b546.png": "/trendytechnologies.com/static/media/Tut78_About2.53f1b546.png",
+    "static/media/Tut78_Andriod.bae7f0e0.jpg": "/trendytechnologies.com/static/media/Tut78_Andriod.bae7f0e0.jpg",
+    "static/media/Tut78_BackendDeveloper.c49d6299.jpg": "/trendytechnologies.com/static/media/Tut78_BackendDeveloper.c49d6299.jpg",
+    "static/media/Tut78_BlockChain.4de78375.jpg": "/trendytechnologies.com/static/media/Tut78_BlockChain.4de78375.jpg",
+    "static/media/Tut78_DataScience.129604b9.jpg": "/trendytechnologies.com/static/media/Tut78_DataScience.129604b9.jpg",
+    "static/media/Tut78_DigitalMarketing.80399b98.jpg": "/trendytechnologies.com/static/media/Tut78_DigitalMarketing.80399b98.jpg",
+    "static/media/Tut78_Home.05ab91a8.jpg": "/trendytechnologies.com/static/media/Tut78_Home.05ab91a8.jpg",
+    "static/media/Tut78_Home2.d12e2a27.svg": "/trendytechnologies.com/static/media/Tut78_Home2.d12e2a27.svg",
+    "static/media/Tut78_IOS.6cc2516f.jpg": "/trendytechnologies.com/static/media/Tut78_IOS.6cc2516f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7501f549.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.76264b49.chunk.js",
+    "static/css/main.7800b59a.chunk.css",
+    "static/js/main.7a100a38.chunk.js"
+  ]
+}
